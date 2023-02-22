@@ -1,0 +1,45 @@
+
+    #image{
+    width: 30%;
+    float: right;
+    height: fit-content;
+    border-radius: 20px;
+    margin: 10% 10% 15% 0%; 
+  }
+    #logo{
+        margin: 30px 0px 0px 50px;
+        padding: 0px 0px 0px 50px;
+    }
+    .navig{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+  }
+  li{
+    display: inline-block;
+        list-style-type: none;
+        font-size: x-large;
+        padding: 25px 25px;
+  }
+  #list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;}
+  #but1{
+    font-size: x-large;
+    color: blue;
+    padding: 6px;
+    border-radius: 10px;
+    border-color: blue;
+    margin: 35px 0px 0px 0px;
+  }
+  #but2{
+    padding: 5px;
+    background-color: blue;
+  }
+  #bold1{
+    color: rgb(13, 13, 94);
+  }
+  #content{
+    margin: 10% 5% 5% 20%;
+  }
